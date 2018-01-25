@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4c4f42e37c0436f45b0f2eb6d99bd4aa
+timeCreated: 1492121123
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Planetpanel: {fileID: 1856227532567710, guid: cc61f0246b7afb64c8a49c61a623ce76,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
